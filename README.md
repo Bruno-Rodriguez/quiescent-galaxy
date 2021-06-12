@@ -1,2 +1,2 @@
 # quiescent-galaxy
-Codes for selecting and studying the photometry of quiescent galaxies.
+Codes for selecting quiescent galaxies and studying their IR and radio emissions.
